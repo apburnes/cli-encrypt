@@ -6,6 +6,10 @@
   "bin": {
     "cli-encrypt": "node ./bin/cli-encrypt.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apburnes/cli-encrypt"
+  },
   "author": "apburnes <bizzurnzz@gmail.com>",
   "license": "MIT",
   "dependencies": {
