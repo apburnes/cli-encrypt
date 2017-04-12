@@ -1,0 +1,14 @@
+{
+  "name": "@apburnes/cli-encrypt",
+  "version": "0.1.0",
+  "description": "CLI Encrypt Tool",
+  "main": "index.js",
+  "bin": {
+    "cli-encrypt": "node ./bin/cli-encrypt.js"
+  },
+  "author": "apburnes <bizzurnzz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
