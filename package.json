@@ -1,10 +1,10 @@
 {
   "name": "@apburnes/cli-encrypt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI Encrypt Tool",
   "main": "index.js",
   "bin": {
-    "cli-encrypt": "node ./bin/cli-encrypt.js"
+    "cli-encrypt": "./bin/cli-encrypt.js"
   },
   "repository": {
     "type": "git",
