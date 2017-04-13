@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const util = require('util')
 const cliEncrypt = require('../index.js');
 const argv = require('minimist')(process.argv.slice(2));

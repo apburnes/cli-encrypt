@@ -1,6 +1,6 @@
 {
   "name": "@apburnes/cli-encrypt",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "CLI Encrypt Tool",
   "main": "index.js",
   "bin": {
